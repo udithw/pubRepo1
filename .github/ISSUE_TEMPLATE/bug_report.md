@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 <!--
-  🚨 WARNING: This is a Public GitHub issue. Do not include any confidential or sensitive information. 🚨
+  🚨 WARNING: This is a Public GitHub issue. Do not include any confidential, sensitive, or customer information. 🚨
 -->
 
 **Describe the bug**
