@@ -7,6 +7,15 @@ assignees: ''
 
 ---
 
+<!--
+  🚨 IMPORTANT: READ BEFORE SUBMITTING 🚨
+
+  DO NOT include any sensitive or personal information in this issue.
+
+  This is a public issue tracker. All content submitted here will be publicly visible.
+
+  If your issue contains confidential data, please use our private support channels.
+-->
 **Describe the bug**
 A clear and concise description of what the bug is.
 
